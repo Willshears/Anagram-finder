@@ -1,0 +1,2 @@
+# Anagram-finder
+I created this to sort anagrams for an interview technical test. I created it to the following specification "finder, given a text file as input, must print any anagrams it detects to standard output. That is, for each anagram word found in the supplied file, a line should be printed to standard output containing all anagrams of that word found in the same file. If there are no anagrams in the file, print no anagrams found to standard output. Any anagrams which are found should be output in the order they are found within the file."
